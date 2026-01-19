@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jan 18, 2026, 06_28_40 PM" src="https://github.com/user-attachments/assets/79bc6e87-dcc8-47a1-9c38-06dca4c47e4c" />
 # 🩺 ClinicalLens-Echo
 
 **ClinicalLens-Echo** is an AI-powered clinical assistant that simulates doctor–patient interactions using **speech recognition**, **text-to-speech**, and **multimodal AI reasoning**.  
