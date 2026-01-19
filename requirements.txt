@@ -1,0 +1,9 @@
+python-dotenv
+groq
+gradio
+anthropic
+Pillow
+SpeechRecognition
+pydub
+gtts
+elevenlabs
